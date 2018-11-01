@@ -11,4 +11,4 @@ script:
   - pytest
 
 after_success:
-- bash <(curl -s -s https://scripts.scantist.com/ci-travis.sh)
+- bash <(curl -s https://scripts.scantist.com/ci-travis.sh)
